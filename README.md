@@ -1,7 +1,5 @@
 # Hi there 👋
 
-Welcome to my GitHub profile!
-
 ## 🚀 I know!
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
