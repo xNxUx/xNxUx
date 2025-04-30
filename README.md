@@ -80,9 +80,9 @@
 
 <p align="center">
   <img 
-    src="https://64.media.tumblr.com/e393e16e2c542a4f3949aa880980fcc5/9741c9e166cefc10-b1/s640x960/bce0ec1c0eebecec5f86f866aa6628773e7ce7d4.gifv" 
+    src="https://i.gifer.com/5m5h.gif" 
     width="350" 
-    alt="glitch gif"
+    alt="cool glitch gif"
     style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.6);"
   />
 </p>
