@@ -80,9 +80,9 @@
 
 <p align="center">
   <img 
-    src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696219ad6dcda40f9fa8ab6/1721115042117/16.gif?format=1500w" 
-    width="350" 
-    alt="glitch gif"
+    src="https://img.freepik.com/premium-photo/pink-cherry-blossom-tree-lined-road-with-path-background_36900-5037.jpg" 
+    width="700" 
+    alt="cherry blossom tree road"
     style="border-radius: 12px; box-shadow: 0 0 25px rgba(255, 255, 255, 0.2);"
   />
 </p>
