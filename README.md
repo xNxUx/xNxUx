@@ -8,25 +8,9 @@
     src="https://64.media.tumblr.com/e393e16e2c542a4f3949aa880980fcc5/9741c9e166cefc10-b1/s640x960/bce0ec1c0eebecec5f86f866aa6628773e7ce7d4.gifv" 
     width="350" 
     alt="glitch gif"
-    style="
-      border-radius: 12px;
-      box-shadow: 0 0 25px rgba(0, 255, 255, 0.6);
-      opacity: 0;
-      animation: fadeIn 2s ease-in-out forwards;
-    "
+    style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.6);"
   />
 </p>
-
-<!-- Inline CSS hack to define fadeIn animation -->
-<img src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg'>
-  <style>
-    @keyframes fadeIn {
-      from { opacity: 0; transform: scale(0.98); }
-      to { opacity: 1; transform: scale(1); }
-    }
-  </style>
-</svg>" style="display:none"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
